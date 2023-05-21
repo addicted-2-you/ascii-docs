@@ -1,9 +1,5 @@
-== Root Spec file
+= Root Spec file
 
-link:docs/backend.adoc[Backend]
+== Web App
 
-link:docs/mobile.adoc[Mobile]
-
-link:docs/web.adoc[Web]
-
-
+=== link:docs/web/homepage.adoc[Homepage]
