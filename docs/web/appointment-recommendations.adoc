@@ -1,4 +1,5 @@
 = Appointment Recommendation
+:toc: auto
 
 == Description
 

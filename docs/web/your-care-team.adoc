@@ -1,4 +1,5 @@
 = Your Care Team
+:toc:
 
 == Description
 
