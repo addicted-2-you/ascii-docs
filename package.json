@@ -1,0 +1,19 @@
+{
+  "name": "ascii-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "format": "prettier ./docs/web.adoc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-asciidoc": "^0.0.1-prerelease-1"
+  }
+}
