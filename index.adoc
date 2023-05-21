@@ -1,6 +1,9 @@
 == Root Spec file
 
-<<./backend.adoc, Backend>>
-<<./mobile.adoc, Mobile>>
-<<./web.adoc, Web>>
+link:docs/backend.adoc[Backend]
+
+link:docs/mobile.adoc[Mobile]
+
+link:docs/web.adoc[Web]
+
 
